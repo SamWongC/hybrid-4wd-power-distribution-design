@@ -1,0 +1,10 @@
+~$*
+*.bak
+*.tmp
+*.log
+*.dwl
+*.dwl2
+Thumbs.db
+.DS_Store
+.env
+.env.*
