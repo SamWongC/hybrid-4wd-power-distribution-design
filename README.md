@@ -20,12 +20,6 @@ The design covers the powertrain layout and power distribution strategy, a plane
 
 Open PDFs first. Download Office files to read them locally, and use compatible CAD software for DWG files. No verified final 3D assembly was identified; the standalone reducer reference model is excluded.
 
-## Language and provenance
-
-This README and the preparation notes are English first, followed by Chinese. A separate English translation of the thesis is provided. It includes all five chapters, conclusions, references, achievements, the declaration and acknowledgments. The source thesis, slides and drawings remain unchanged; embedded Chinese labels in engineering figures are retained. Translation notes explain source inconsistencies and formatting choices. The translation does not independently validate the engineering calculations.
-
-[SOURCE_MANIFEST.csv](SOURCE_MANIFEST.csv) maps every copied source file to its original relative path and SHA-256 hash. [Preparation notes](PREPARATION.md) explain selection and verification. Source filenames were simplified for navigation; source contents were not edited. References and acknowledgments remain in the thesis. No license is assigned. Begin with a private repository because the documents retain names, student identifiers and other original information.
-
 ---
 
 # 四轮驱动混合动力汽车的动力分配装置结构设计
@@ -50,8 +44,3 @@ This README and the preparation notes are English first, followed by Chinese. A 
 
 建议先阅读 PDF。Office 文件下载后打开，DWG 使用兼容 CAD 软件查看。未确认独立的最终三维总装，暂不收入参考减速机模型。
 
-## 语言与来源
-
-本说明及整理记录采用英文在前、中文在后的顺序。论文已另做独立英文译本，包括五章正文、结论、参考文献、成果、声明及致谢。中文原论文、答辩和图纸保持原样，论文工程插图中的中文标注保留。译本说明记录原文数据不一致及排版处理；本次翻译不构成工程计算的独立验证。
-
-[文件清单](SOURCE_MANIFEST.csv)记录每份复制材料的源相对路径及 SHA-256；[整理记录](PREPARATION.md)说明选择依据和验证范围。仅简化上传文件名，未修改源文件内容。论文中的参考文献和致谢保留，未添加开源许可证。原文件仍包含姓名、学号等信息，建议先建立私有仓库。
